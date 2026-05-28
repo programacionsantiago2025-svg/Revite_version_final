@@ -1,0 +1,30 @@
+[
+    {
+        "placa": "MI CARRO",
+        "marca": "FIND NEW ROATS",
+        "modelo": "1",
+        "mantenimiento": true,
+        "capacidad": "1"
+    },
+    {
+        "placa": "ABC123",
+        "marca": "Chevrolet",
+        "modelo": "2025",
+        "mantenimiento": false,
+        "capacidad": "5"
+    },
+    {
+        "placa": "1",
+        "marca": "1",
+        "modelo": "1",
+        "mantenimiento": false,
+        "capacidad": "1"
+    },
+    {
+        "placa": "PRUEBA",
+        "marca": "1",
+        "modelo": "1",
+        "mantenimiento": false,
+        "capacidad": "1"
+    }
+]

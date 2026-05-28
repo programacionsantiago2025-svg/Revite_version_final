@@ -1,0 +1,308 @@
+[
+    {
+        "nombre": "Santiago",
+        "apellido": "",
+        "cedula": "santiago",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: MI CARRO"
+    },
+    {
+        "nombre": "h",
+        "apellido": "",
+        "cedula": "santiago",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: FIND NEW ROATS - MI CARRO"
+    },
+    {
+        "nombre": "h",
+        "apellido": "",
+        "cedula": "88888",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: FIND NEW ROATS - MI CARRO"
+    },
+    {
+        "nombre": "Santiago",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "Santiago123",
+        "apellido": "",
+        "cedula": "1070600371",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "Santiago123",
+        "apellido": "",
+        "cedula": "pepito",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "alfonso123",
+        "apellido": "",
+        "cedula": "111111",
+        "foto": "./assets/persona.png",
+        "hora": "9:30",
+        "sector": "Bogota",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "alfonso123",
+        "apellido": "",
+        "cedula": "111111123",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "alfonso123",
+        "apellido": "",
+        "cedula": "111111123",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "alfonso123",
+        "apellido": "",
+        "cedula": "111111123",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito123",
+        "apellido": "",
+        "cedula": "10706000212",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito123",
+        "apellido": "",
+        "cedula": "a",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito1232",
+        "apellido": "",
+        "cedula": "107056340534",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Melgar",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito1232",
+        "apellido": "",
+        "cedula": "107056340534",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "La mesa",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito1232",
+        "apellido": "",
+        "cedula": "alfonso",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "La mesa",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "pepito1232",
+        "apellido": "",
+        "cedula": "123123124124",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "La mesa",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "123125",
+        "apellido": "",
+        "cedula": "123123124124",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "La mesa",
+        "taxi": "Carro seleccionado: ABC123"
+    },
+    {
+        "nombre": "A",
+        "apellido": "",
+        "cedula": "11111",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "A",
+        "apellido": "",
+        "cedula": "11111",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "A",
+        "apellido": "",
+        "cedula": "11111",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "santi",
+        "apellido": "",
+        "cedula": "1111",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "santi",
+        "apellido": "",
+        "cedula": "1111",
+        "foto": "./assets/persona.png",
+        "hora": "6:30",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "santi",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "C:\\Users\\pc\\Pictures\\Camera Roll\\WIN_20260411_07_24_26_Pro.jpg",
+        "hora": "6:30",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "santi",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "C:\\Users\\pc\\Pictures\\Camera Roll\\WIN_20260411_07_24_26_Pro.jpg",
+        "hora": "9:30",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "Elchanty",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "Elchanty",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "Elchanty",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "Elchanty",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "Elchanty",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: Chevrolet - ABC123"
+    },
+    {
+        "nombre": "elbabo",
+        "apellido": "",
+        "cedula": "106734534",
+        "foto": "./assets/persona.png",
+        "hora": "7:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: 1"
+    },
+    {
+        "nombre": "prueba",
+        "apellido": "",
+        "cedula": "1111",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: 1 - 1"
+    },
+    {
+        "nombre": "1",
+        "apellido": "",
+        "cedula": "1",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: PRUEBA"
+    },
+    {
+        "nombre": "martin",
+        "apellido": "",
+        "cedula": "1070600372",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Agua de dios",
+        "taxi": "Carro seleccionado: 1 - PRUEBA"
+    },
+    {
+        "nombre": "manolo",
+        "apellido": "",
+        "cedula": "1070600370",
+        "foto": "./assets/persona.png",
+        "hora": "6:00",
+        "sector": "Tocaima",
+        "taxi": "Carro seleccionado: 1 - PRUEBA"
+    }
+]
